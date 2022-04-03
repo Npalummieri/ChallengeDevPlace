@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648957124 source:d:\challenge\c\challenge\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
